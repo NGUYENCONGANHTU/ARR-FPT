@@ -174,10 +174,10 @@ int main ()
             break;
         }
     }
-        if(ptu==10)
-        {
-            printf("khong tim thay ptu trong mang", ptu);
-        }
+    if(ptu==10)
+    {
+        printf("khong tim thay ptu trong mang", ptu);
+    }
 
     return 0;
 }
